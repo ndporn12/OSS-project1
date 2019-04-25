@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-printf("fuck you kim jin yeong\n");
+printf("waaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n");
 
 return 0;
 }
