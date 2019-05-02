@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-printf("waaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n");
+printf("waaaaaaaaaaaaaaaooooooooooooooooooooooooooooooaaaaaaaaaaaaaa\n");
 
 return 0;
 }
